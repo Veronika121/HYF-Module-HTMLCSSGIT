@@ -1,9 +1,9 @@
 # HYF-Module-HTMLCSSGIT
 
 <p>Here you can find my homework.</p>
-<p>Week 1</p>
+<h3>Week 1</h3>
 <ul>
-  <li>https://veronika121.github.io/HYF-Module-HTMLCSSGIT/week1/resume/index.html</li>
-  <li>https://veronika121.github.io/HYF-Module-HTMLCSSGIT/week1/CLI.txt</li>
+  <li><a href="https://veronika121.github.io/HYF-Module-HTMLCSSGIT/week1/CLI.txt" target="_blank">CLI commands</a></li>
+  <li><a href="https://veronika121.github.io/HYF-Module-HTMLCSSGIT/week1/resume/index.html" target="_blank">Digital resume</a></li>
 </ul>
 
