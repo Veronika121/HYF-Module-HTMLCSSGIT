@@ -9,7 +9,7 @@
 <h3>Week 2</h3>
 <ul>
   <li><a href="https://github.com/Veronika121/favorite-cmd-commands" target="_blank">GIT exercise #1</a></li>
-  <li></li>
+  <li><a href="https://veronika121.github.io/HYF-Module-HTMLCSSGIT/week2/index.html" target="_blank">The Drones website</a></li>
 </ul>
 
 
