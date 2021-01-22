@@ -11,5 +11,11 @@
   <li><a href="https://github.com/Veronika121/favorite-cmd-commands" target="_blank">GIT exercise #1</a></li>
   <li><a href="https://veronika121.github.io/HYF-Module-HTMLCSSGIT/week2/index.html" target="_blank">The Drones website</a></li>
 </ul>
+<h3>Week 3</h3>
+<ul>
+  <li><a href="https://github.com/Veronika121/animals" target="_blank">GIT exercise: animals repository</a></li>
+  <li><a href="" target="_blank">Responsive website</a></li>
+</ul>
+
 
 
