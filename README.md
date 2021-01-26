@@ -14,7 +14,11 @@
 <h3>Week 3</h3>
 <ul>
   <li><a href="https://github.com/Veronika121/animals" target="_blank">GIT exercise: animals repository</a></li>
-  <li><a href="" target="_blank">Responsive website</a></li>
+  <li><a href="https://veronika121.github.io/UBER-clone/index.html" target="_blank">Responsive website</a>
+  <ul>
+    <li><a href="https://github.com/Veronika121/UBER-clone" target="_blank">Repo for Responsive website</a></li>
+  </ul>
+  </li>
 </ul>
 
 
